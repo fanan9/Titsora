@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו תל אביב 102FM | אלמוג הירש</title>
     <description>Programs from רדיו תל אביב 102FM, show: אלמוג הירש</description>
-    <link>https://podcast.go77.link/102fm/ALMOGHIRSH/4343-616C-6b046662.mp3</link>
+    <link>https://podcast.go77.link/102fm/ALMOGHIRSH/4343-D790D79CD7-6b05b85d.mp3</link>
     <language>he</language>
-    <lastBuildDate>Tue, 24 Nov 2026 20:59:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 22:59:30 +0000</lastBuildDate>
     <image>
-      <url>https://fm102-recordings.s3.amazonaws.com/images/1795450473176________________.jpg</url>
+      <url>https://fm102-recordings.s3.amazonaws.com/images/1795536992751________________.jpg</url>
       <title>רדיו תל אביב 102FM | אלמוג הירש</title>
-      <link>https://podcast.go77.link/102fm/ALMOGHIRSH/4343-616C-6b046662.mp3</link>
+      <link>https://podcast.go77.link/102fm/ALMOGHIRSH/4343-D790D79CD7-6b05b85d.mp3</link>
     </image>
+    <item>
+      <title>אלמוג הירש ~ 24-11-2026 | 18:17</title>
+      <link>https://podcast.go77.link/102fm/ALMOGHIRSH/4343-D790D79CD7-6b05b85d.mp3</link>
+      <enclosure url="https://podcast.go77.link/102fm/ALMOGHIRSH/4343-D790D79CD7-6b05b85d.mp3" length="0" type="audio/mpeg" />
+      <description>אלמוג הירש ~ 24-11-2026 | 18:17</description>
+      <programDate>24/11/2026</programDate>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1795536992751________________.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">476|19|24/11/2026|https://podcast.go77.link/102fm/ALMOGHIRSH/4343-D790D79CD7-6b05b85d.mp3</guid>
+    </item>
     <item>
       <title>אלמוג הירש ~ 23-11-2026 | 18:15</title>
       <link>https://podcast.go77.link/102fm/ALMOGHIRSH/4343-616C-6b046662.mp3</link>
